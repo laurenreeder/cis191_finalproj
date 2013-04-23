@@ -1,0 +1,18 @@
+1. /proc/version
+cat /proc/version
+Linux version 3.2.0-36-virtual (buildd@allspice) (gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5) ) #57-Ubuntu SMP Tue Jan 8 22:04:49 UTC 2013
+2. /proc/filesystems
+cat /proc/filesystems
+Yes- it is mounted on this device.
+3. /proc/swaps
+cat /proc/swaps
+0
+4. /proc/cmdline
+cat /proc/cmdline
+nfsroot=10.0.25.100:/vol/vm/plus.seas.upenn.edu xencons=tty1 ip=10.0.25.203:10.0.25.100:10.0.25.1:255.255.255.0:plus:eth1:none
+5. /proc/cmdline
+cat /proc/cmdline
+BOOT_IMAGE=/boot/vmlinuz-3.5.0-17-generic root=UUID=02ad088b-b285-4377-b5d3-c07c559cbb8e ro quiet splash vt.handoff=7
+6. /proc/cpuinfo
+cat /proc/cpuinfo
+cpu MHz		: 2409.252

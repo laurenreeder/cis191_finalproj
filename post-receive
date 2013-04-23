@@ -1,0 +1,9 @@
+#!/bin/sh
+
+unset GIT_DIR
+#git checkout -f
+cd ..
+git pull origin2 master
+cd project.git/hooks
+sudo chmod +x hooks/post-receive
+echo "post-receive run"

@@ -1,0 +1,78 @@
+commit 7130d4942f189db7d671a18a45059f51723bdd3a
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 13:04:02 2013 -0400
+
+    text x3 for hook
+
+commit 929d422fbcd49975b680b03c3b5cde0d14a2e9e0
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 13:00:35 2013 -0400
+
+    added another small change to test hook 2x
+
+commit 234dc999b7b5d82552d2b60cedecec3c89b93455
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 12:57:14 2013 -0400
+
+    added small change to test hook
+
+commit 1a2a83671ab65956c4b4f460d2c5f7e39789a9a4
+Merge: 57d9320 742c33f
+Author: lauren <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 16:52:47 2013 +0000
+
+    fixed conflicts
+
+commit 57d93206e8c5dad09727487717f7d4408f278009
+Author: lauren <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 16:48:30 2013 +0000
+
+    server.html from server
+
+commit 742c33fe64d957c659b644902e03006ab4b9f0a8
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 12:41:55 2013 -0400
+
+    test with hello world
+
+commit a1f40be786a7a18ee27716ba7ef690017bdb3e6a
+Author: lauren <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 16:24:09 2013 +0000
+
+    added output of proc file
+
+commit dee85eb77fd911c4845a82effba5bc243ce10e4f
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 12:17:32 2013 -0400
+
+    test commit
+
+commit 69dcf5bce611360db825784fed04078296f073b6
+Author: lauren <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 05:24:01 2013 +0000
+
+    Update with proc output
+
+commit 0a40fa284a49c68d9c6339a2a10713040464de49
+Author: laurenreeder <laurenmreeder@gmail.com>
+Date:   Mon Apr 22 21:24:13 2013 -0400
+
+    attempt from final_proj
+
+commit d7f1fe284cc5c7286291dab6deca2b74a39ac4db
+Author: lauren <laurenmreeder@gmail.com>
+Date:   Tue Apr 23 00:58:48 2013 +0000
+
+    Updates html format
+
+commit 5edf6296850375842aec48b54bc2aab125af3a00
+Author: Ubuntu <ubuntu@ip-10-252-128-81.us-west-2.compute.internal>
+Date:   Tue Apr 23 00:26:03 2013 +0000
+
+    test post-receive
+
+commit d5e8f142578aed50f53d753139126ae7260941b7
+Author: Ubuntu <ubuntu@ip-10-252-128-81.us-west-2.compute.internal>
+Date:   Mon Apr 22 20:35:29 2013 +0000
+
+    inital commit
